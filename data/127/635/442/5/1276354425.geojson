@@ -1,0 +1,74 @@
+{
+  "id": 1276354425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.31667,18.71667,-64.31667,18.71667",
+    "geom:latitude":18.71667,
+    "geom:longitude":-64.31667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"The Settlement",
+    "gn:country_code":"VG",
+    "gn:dem":3,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577351,
+    "gn:latitude":18.71667,
+    "gn:longitude":-64.31667,
+    "gn:modification_date":"2017-06-22",
+    "gn:name":"The Settlement",
+    "gn:population":0,
+    "gn:timezone":"America/Tortola",
+    "iso:country":"VG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:eng_x_preferred":[
+        "The Settlement"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\ud2c0\uba3c\ud2b8"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632629,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577351,
+        "wk:page":"The_Settlement%2C_British_Virgin_Islands"
+    },
+    "wof:country":"VG",
+    "wof:geomhash":"0489b7ddfe6c49f2c3de854c15cd9285",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632629,
+            "empire_id":136253055,
+            "locality_id":1276354425,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1276354425,
+    "wof:lastmodified":1537713652,
+    "wof:name":"The Settlement",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.31667,
+    18.71667,
+    -64.31667,
+    18.71667
+],
+  "geometry": {"coordinates":[-64.31667,18.71667],"type":"Point"}
+}

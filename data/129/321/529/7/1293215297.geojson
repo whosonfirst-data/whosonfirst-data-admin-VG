@@ -1,0 +1,67 @@
+{
+  "id": 1293215297,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.68132,18.39142,-64.68132,18.39142",
+    "geom:latitude":18.39142,
+    "geom:longitude":-64.68132,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Freshwater Pond",
+    "gn:country_code":"VG",
+    "gn:dem":17,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577636,
+    "gn:latitude":18.39142,
+    "gn:longitude":-64.68132,
+    "gn:modification_date":"2014-04-09",
+    "gn:name":"Freshwater Pond",
+    "gn:population":0,
+    "gn:timezone":"America/Tortola",
+    "iso:country":"VG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632629,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577636
+    },
+    "wof:country":"VG",
+    "wof:geomhash":"4a8e45aa5396bd205be283da1766b919",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632629,
+            "empire_id":136253055,
+            "locality_id":1293215297,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1293215297,
+    "wof:lastmodified":1536682295,
+    "wof:name":"Freshwater Pond",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.68132,
+    18.39142,
+    -64.68132,
+    18.39142
+],
+  "geometry": {"coordinates":[-64.68132,18.39142],"type":"Point"}
+}

@@ -1,0 +1,67 @@
+{
+  "id": 1243190689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.39018,18.48185,-64.39018,18.48185",
+    "geom:latitude":18.48185,
+    "geom:longitude":-64.39018,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"South Sound",
+    "gn:country_code":"VG",
+    "gn:dem":5,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3577371,
+    "gn:latitude":18.48185,
+    "gn:longitude":-64.39018,
+    "gn:modification_date":"2016-08-30",
+    "gn:name":"South Sound",
+    "gn:population":0,
+    "gn:timezone":"America/Tortola",
+    "iso:country":"VG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632629,
+        102191575,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577371
+    },
+    "wof:country":"VG",
+    "wof:geomhash":"f02b2ba83efe32462378bd3a09af1380",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632629,
+            "empire_id":136253055,
+            "locality_id":1243190689,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1243190689,
+    "wof:lastmodified":1536677257,
+    "wof:name":"South Sound",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.39018,
+    18.48185,
+    -64.39018,
+    18.48185
+],
+  "geometry": {"coordinates":[-64.39018,18.48185],"type":"Point"}
+}

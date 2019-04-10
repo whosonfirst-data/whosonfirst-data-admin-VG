@@ -1,0 +1,61 @@
+{
+  "id": 1209625431,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.56667,18.41667,-64.56667,18.41667",
+    "geom:latitude":18.41667,
+    "geom:longitude":-64.56667,
+    "gn:admin1_code":"0.0",
+    "gn:asciiname":"Maya Cove",
+    "gn:country_code":"VG",
+    "gn:dem":-9999,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3577498,
+    "gn:latitude":18.41667,
+    "gn:longitude":-64.56667,
+    "gn:modification_date":"1993-12-22",
+    "gn:name":"Maya Cove",
+    "gn:population":0,
+    "gn:timezone":"America/Tortola",
+    "iso:country":"VG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632629
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577498
+    },
+    "wof:country":"VG",
+    "wof:geomhash":"93bb07ea129231e49d240b9ab68ca138",
+    "wof:hierarchy":[
+        {
+            "dependency_id":85632629,
+            "locality_id":1209625431
+        }
+    ],
+    "wof:id":1209625431,
+    "wof:lastmodified":1536281370,
+    "wof:name":"Maya Cove",
+    "wof:parent_id":85632629,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-vg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.56667,
+    18.41667,
+    -64.56667,
+    18.41667
+],
+  "geometry": {"coordinates":[-64.56667,18.41667],"type":"Point"}
+}

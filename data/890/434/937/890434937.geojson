@@ -1,0 +1,252 @@
+{
+  "id": 890434937,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-64.61667,18.41667,-64.61667,18.41667",
+    "geom:latitude":18.41667,
+    "geom:longitude":-64.61667,
+    "gn:country":"VG",
+    "gn:fcode":"PPLC",
+    "gn:pop":8449,
+    "iso:country":"VG",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:afr_x_preferred":[
+        "Road Town"
+    ],
+    "name:ara_x_preferred":[
+        "\u0631\u0648\u062f \u062a\u0627\u0648\u0646"
+    ],
+    "name:aze_x_preferred":[
+        "Roud Taun"
+    ],
+    "name:baq_x_preferred":[
+        "Road Town"
+    ],
+    "name:bel_x_preferred":[
+        "\u0413\u043e\u0440\u0430\u0434 \u0420\u043e\u0434-\u0422\u0430\u045e\u043d"
+    ],
+    "name:bos_x_preferred":[
+        "Road Town"
+    ],
+    "name:bul_x_preferred":[
+        "\u0420\u043e\u0443\u0434 \u0422\u0430\u0443\u043d"
+    ],
+    "name:cat_x_preferred":[
+        "Road Town"
+    ],
+    "name:che_x_preferred":[
+        "\u0420\u043e\u0434-\u0422\u0430\u0443\u043d"
+    ],
+    "name:chi_x_preferred":[
+        "\u7f57\u5fb7\u57ce"
+    ],
+    "name:cze_x_preferred":[
+        "Road Town"
+    ],
+    "name:dan_x_preferred":[
+        "Road Town"
+    ],
+    "name:deu_x_preferred":[
+        "Road Town"
+    ],
+    "name:dut_x_preferred":[
+        "Road Town"
+    ],
+    "name:ell_x_preferred":[
+        "Road Town"
+    ],
+    "name:ell_x_variant":[
+        "\u03a1\u03cc\u03bf\u03c5\u03bd\u03c4 \u03a4\u03ac\u03bf\u03c5\u03bd"
+    ],
+    "name:eng_x_preferred":[
+        "Road Town"
+    ],
+    "name:epo_x_preferred":[
+        "Rod-Ta\u016dno"
+    ],
+    "name:fas_x_preferred":[
+        "\u0631\u0648\u062f \u062a\u0627\u0648\u0646"
+    ],
+    "name:fin_x_preferred":[
+        "Road Town"
+    ],
+    "name:fra_x_preferred":[
+        "Road Town"
+    ],
+    "name:fre_x_preferred":[
+        "Road Town"
+    ],
+    "name:geo_x_preferred":[
+        "\u10e0\u10dd\u10e3\u10d3-\u10e2\u10d0\u10e3\u10dc\u10d8"
+    ],
+    "name:ger_x_preferred":[
+        "Road Town"
+    ],
+    "name:glg_x_preferred":[
+        "Road Town"
+    ],
+    "name:gre_x_preferred":[
+        "\u03a1\u03cc\u03bf\u03c5\u03bd\u03c4 \u03a4\u03ac\u03bf\u03c5\u03bd"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e8\u05d5\u05d0\u05d5\u05d3 \u05d8\u05d0\u05d5\u05df"
+    ],
+    "name:hrv_x_preferred":[
+        "Road Town"
+    ],
+    "name:ido_x_preferred":[
+        "Road Town"
+    ],
+    "name:ind_x_preferred":[
+        "Road Town"
+    ],
+    "name:ita_x_preferred":[
+        "Road Town"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30ed\u30fc\u30c9\u30bf\u30a6\u30f3"
+    ],
+    "name:kat_x_preferred":[
+        "\u10e0\u10dd\u10e3\u10d3-\u10e2\u10d0\u10e3\u10dc\u10d8"
+    ],
+    "name:kor_x_preferred":[
+        "\ub85c\ub4dc\ud0c0\uc6b4"
+    ],
+    "name:lat_x_preferred":[
+        "Road Town"
+    ],
+    "name:lav_x_preferred":[
+        "Rodtauna"
+    ],
+    "name:lit_x_preferred":[
+        "Rod Taunas"
+    ],
+    "name:nld_x_preferred":[
+        "Road Town"
+    ],
+    "name:nno_x_preferred":[
+        "Road Town"
+    ],
+    "name:nob_x_preferred":[
+        "Road Town"
+    ],
+    "name:nov_x_preferred":[
+        "Road Town"
+    ],
+    "name:per_x_preferred":[
+        "\u0631\u0648\u062f \u062a\u0627\u0648\u0646"
+    ],
+    "name:pol_x_preferred":[
+        "Road Town"
+    ],
+    "name:por_x_preferred":[
+        "Road Town"
+    ],
+    "name:rus_x_preferred":[
+        "\u0420\u043e\u0434-\u0422\u0430\u0443\u043d"
+    ],
+    "name:sco_x_preferred":[
+        "Road Town"
+    ],
+    "name:slk_x_preferred":[
+        "Road Town"
+    ],
+    "name:slo_x_preferred":[
+        "Road Town"
+    ],
+    "name:spa_x_preferred":[
+        "Road Town"
+    ],
+    "name:srp_x_preferred":[
+        "\u0420\u043e\u0443\u0434 \u0422\u0430\u0443\u043d"
+    ],
+    "name:swa_x_preferred":[
+        "Road Town"
+    ],
+    "name:swe_x_preferred":[
+        "Road Town"
+    ],
+    "name:tam_x_preferred":[
+        "\u0bb0\u0bcb\u0b9f\u0bc1 \u0b9f\u0bb5\u0bc1\u0ba9\u0bcd"
+    ],
+    "name:tur_x_preferred":[
+        "Road Town"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0420\u043e\u0434-\u0422\u0430\u0443\u043d"
+    ],
+    "name:urd_x_preferred":[
+        "\u0631\u0648\u0688 \u0679\u0627\u0648\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Road Town"
+    ],
+    "name:war_x_preferred":[
+        "Road Town"
+    ],
+    "name:yor_x_preferred":[
+        "Road Town"
+    ],
+    "name:zho_x_preferred":[
+        "\u7f57\u5fb7\u57ce"
+    ],
+    "qs:name":"Road Town",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"5",
+    "src:population":"geonames",
+    "wd:elevation":10.0,
+    "wd:latitude":"18.433333333",
+    "wd:longitude":"-64.616666666",
+    "wd:wordcount":769,
+    "wof:belongsto":[
+        102191575,
+        85632629,
+        85633159,
+        85681419
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3577430,
+        "gp:id":329606,
+        "qs:id":149033,
+        "wd:id":"Q179431",
+        "wk:page":"Road Town"
+    },
+    "wof:country":"VG",
+    "wof:created":1469052046,
+    "wof:geomhash":"1c15c9ead5bf184384f18321c1948423",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85633159,
+            "dependency_id":85632629,
+            "locality_id":890434937,
+            "region_id":85681419
+        }
+    ],
+    "wof:id":890434937,
+    "wof:lastmodified":1527792943,
+    "wof:name":"Road Town",
+    "wof:parent_id":85681419,
+    "wof:placetype":"locality",
+    "wof:population":8449,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-vg",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.61667,
+    18.41667,
+    -64.61667,
+    18.41667
+],
+  "geometry": {"coordinates":[-64.61667,18.41667],"type":"Point"}
+}

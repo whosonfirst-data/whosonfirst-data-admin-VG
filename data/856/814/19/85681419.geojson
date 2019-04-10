@@ -1,0 +1,527 @@
+{
+  "id": 85681419,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:deprecated":"2017-11-15",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0124,
+    "geom:area_square_m":145401983.735139,
+    "geom:bbox":"-64.773996549,18.334662177,-64.2707413396,18.7462425798",
+    "geom:latitude":18.509884,
+    "geom:longitude":-64.502863,
+    "gn:id":"",
+    "iso:country":"VG",
+    "lbl:latitude":18.426606,
+    "lbl:longitude":-64.63661,
+    "mps:latitude":18.426606,
+    "mps:longitude":-64.63661,
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":18.0,
+    "name:afr_x_preferred":[
+        "Britse Maagde-eilande"
+    ],
+    "name:als_x_preferred":[
+        "Britische Jungferninseln"
+    ],
+    "name:ang_x_preferred":[
+        "Bryttiscan F\u00e6mne \u012aegland"
+    ],
+    "name:ara_x_preferred":[
+        "\u062c\u0632\u0631 \u0627\u0644\u0639\u0630\u0631\u0627\u0621 \u0627\u0644\u0628\u0631\u064a\u0637\u0627\u0646\u064a\u0629"
+    ],
+    "name:arg_x_preferred":[
+        "Islas Virchens Britanicas"
+    ],
+    "name:aze_x_preferred":[
+        "Britaniya Virgin adalar\u0131"
+    ],
+    "name:bcl_x_preferred":[
+        "Islas Virgenes nin Britanya"
+    ],
+    "name:bel_x_preferred":[
+        "\u0411\u0440\u044b\u0442\u0430\u043d\u0441\u043a\u0456\u044f \u0412\u0456\u0440\u0433\u0456\u043d\u0441\u043a\u0456\u044f \u0430\u0441\u0442\u0440\u0430\u0432\u044b"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0440\u044b\u0442\u0430\u043d\u0441\u043a\u0456\u044f \u0412\u0456\u0440\u0433\u0456\u043d\u0441\u043a\u0456\u044f \u0430\u0441\u0442\u0440\u0430\u0432\u044b"
+    ],
+    "name:bos_x_preferred":[
+        "Britanska Djevi\u010danska Ostrva"
+    ],
+    "name:bpy_x_preferred":[
+        "\u09ac\u09cd\u09b0\u09bf\u099f\u09bf\u09b6 \u09ad\u09be\u09b0\u09cd\u099c\u09bf\u09a8 \u09a6\u09cd\u09ac\u09c0\u09aa\u09ae\u09be\u09b2\u09be"
+    ],
+    "name:bre_x_preferred":[
+        "Inizi Gwerc'h Breizhveurat"
+    ],
+    "name:bul_x_preferred":[
+        "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438 \u0412\u0438\u0440\u0434\u0436\u0438\u043d\u0441\u043a\u0438 \u043e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:cat_x_preferred":[
+        "Illes Verges Brit\u00e0niques"
+    ],
+    "name:ces_x_preferred":[
+        "Britsk\u00e9 Panensk\u00e9 ostrovy"
+    ],
+    "name:che_x_preferred":[
+        "\u0411\u0440\u0438\u0442\u0430\u043d\u0438\u043d \u0412\u0438\u0440\u0433\u0438\u043d\u0438\u0439\u043d \u0433\u04c0\u0430\u0439\u0440\u0435\u043d\u0430\u0448"
+    ],
+    "name:cor_x_preferred":[
+        "Ynysow an Wyrghes Predennek"
+    ],
+    "name:cym_x_preferred":[
+        "Ynysoedd Prydeinig y Wyryf"
+    ],
+    "name:dan_x_colloquial":[
+        "De Britiske Jomfruoer"
+    ],
+    "name:dan_x_preferred":[
+        "De Britiske Jomfru\u00f8er",
+        "Britiske Jomfru\u00f8er"
+    ],
+    "name:deu_x_preferred":[
+        "Britische Jungferninseln"
+    ],
+    "name:div_x_preferred":[
+        "\u0784\u07a8\u0783\u07a8\u0793\u07a8\u079d\u07b0 \u0788\u07a7\u0796\u07a8\u0782\u07b0 \u0796\u07a6\u0792\u07a9\u0783\u07a7"
+    ],
+    "name:dsb_x_preferred":[
+        "Britaniske kn\u011b\u017eniske kupy"
+    ],
+    "name:ell_x_preferred":[
+        "\u0392\u03c1\u03b5\u03c4\u03b1\u03bd\u03b9\u03ba\u03ad\u03c2 \u03a0\u03b1\u03c1\u03b8\u03ad\u03bd\u03bf\u03b9 \u039d\u03ae\u03c3\u03bf\u03b9"
+    ],
+    "name:eng_x_preferred":[
+        "British Virgin Islands"
+    ],
+    "name:eng_x_unknown":[
+        "BVI",
+        "VG",
+        "VGB"
+    ],
+    "name:eng_x_variant":[
+        "British Virgin Islander",
+        "U.K. Virgin Islands",
+        "UK Virgin Islands",
+        "Virgin Gorda",
+        "Virgingorda"
+    ],
+    "name:epo_x_preferred":[
+        "Britaj Virgulininsuloj"
+    ],
+    "name:est_x_preferred":[
+        "Briti Neitsisaared"
+    ],
+    "name:eus_x_preferred":[
+        "Birjina britainiar uharteak"
+    ],
+    "name:fas_x_preferred":[
+        "\u062c\u0632\u0627\u06cc\u0631 \u0648\u06cc\u0631\u062c\u06cc\u0646 \u0628\u0631\u06cc\u062a\u0627\u0646\u06cc\u0627"
+    ],
+    "name:fin_x_colloquial":[
+        "Brittilaiset Neitsytsaaret"
+    ],
+    "name:fin_x_preferred":[
+        "Brittil\u00e4iset Neitsytsaaret"
+    ],
+    "name:fra_x_colloquial":[
+        "Iles Vierges Britanniques"
+    ],
+    "name:fra_x_preferred":[
+        "\u00celes Vierges britanniques"
+    ],
+    "name:fra_x_variant":[
+        "\u00celes Vierges Britanniques"
+    ],
+    "name:frp_x_preferred":[
+        "Iles Vi\u00e8rges britaniques"
+    ],
+    "name:frr_x_preferred":[
+        "Britisk Jongfoomen Eilunen"
+    ],
+    "name:gag_x_preferred":[
+        "B\u00fc\u00fck Britaniya Virgin Adalar\u0131"
+    ],
+    "name:gle_x_preferred":[
+        "Oile\u00e1in Bhriotanacha na Maighdean"
+    ],
+    "name:glg_x_preferred":[
+        "Illas Virxes Brit\u00e1nicas"
+    ],
+    "name:hbs_x_preferred":[
+        "Britanski Djevi\u010danski otoci"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d9\u05d9 \u05d4\u05d1\u05ea\u05d5\u05dc\u05d4 \u05d4\u05d1\u05e8\u05d9\u05d8\u05d9\u05d9\u05dd"
+    ],
+    "name:hin_x_preferred":[
+        "\u092c\u094d\u0930\u093f\u091f\u093f\u0936 \u0935\u0930\u094d\u091c\u093f\u0928 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
+    ],
+    "name:hrv_x_preferred":[
+        "Britanski Djevi\u010danski otoci"
+    ],
+    "name:hun_x_preferred":[
+        "Brit Virgin-szigetek"
+    ],
+    "name:hye_x_preferred":[
+        "\u0532\u0580\u056b\u057f\u0561\u0576\u0561\u056f\u0561\u0576 \u054e\u056b\u0580\u057b\u056b\u0576\u0575\u0561\u0576 \u056f\u0572\u0566\u056b\u0576\u0565\u0580"
+    ],
+    "name:ido_x_preferred":[
+        "Virgin Insuli Britaniana"
+    ],
+    "name:ind_x_preferred":[
+        "Kepulauan Virgin Britania Raya"
+    ],
+    "name:isl_x_preferred":[
+        "Bresku J\u00f3mfr\u00faaeyjar"
+    ],
+    "name:ita_x_preferred":[
+        "Isole Vergini Britanniche",
+        "Isole Vergini britanniche"
+    ],
+    "name:ita_x_variant":[
+        "Vergini"
+    ],
+    "name:jam_x_preferred":[
+        "British Voerjin Ailanz"
+    ],
+    "name:jav_x_preferred":[
+        "Kapuloan Virgin Britania Raya"
+    ],
+    "name:jpn_x_preferred":[
+        "\u82f1\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6",
+        "\u30a4\u30ae\u30ea\u30b9\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6"
+    ],
+    "name:jpn_x_variant":[
+        "\u30a4\u30ae\u30ea\u30b9\u9818\u30f4\u30a1\u30fc\u30b8\u30f3\u8af8\u5cf6"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d8\u10e2\u10d0\u10dc\u10d4\u10d7\u10d8\u10e1 \u10d5\u10d8\u10e0\u10ef\u10d8\u10dc\u10d8\u10e1 \u10d9\u10e3\u10dc\u10eb\u10e3\u10da\u10d4\u10d1\u10d8"
+    ],
+    "name:kaz_x_preferred":[
+        "\u0411\u0440\u0438\u0442\u0430\u043d\u0434\u044b\u049b \u0412\u0438\u0440\u0434\u0436\u0438\u043d \u0430\u0440\u0430\u043b\u0434\u0430\u0440\u044b"
+    ],
+    "name:kin_x_preferred":[
+        "Ibirwa bya Virigini Nyongereza"
+    ],
+    "name:kor_x_preferred":[
+        "\uc601\uad6d\ub839 \ubc84\uc9c4 \uc81c\ub3c4",
+        "\uc601\uad6d\ub839 \ubc84\uc9c4\uc544\uc77c\ub79c\ub4dc"
+    ],
+    "name:lat_x_preferred":[
+        "Virginis Insulae Britannicae"
+    ],
+    "name:lav_x_preferred":[
+        "Britu Vird\u017e\u012bnas"
+    ],
+    "name:lij_x_preferred":[
+        "Isoe Vergini Britanneghe"
+    ],
+    "name:lim_x_preferred":[
+        "Britse Maagde-Eilen"
+    ],
+    "name:lit_x_preferred":[
+        "Mergeli\u0173 Salos"
+    ],
+    "name:ltz_x_preferred":[
+        "Britesch Joffereninselen"
+    ],
+    "name:mar_x_preferred":[
+        "\u092c\u094d\u0930\u093f\u091f\u093f\u0936 \u0935\u094d\u0939\u0930\u094d\u091c\u093f\u0928 \u0926\u094d\u0935\u0940\u092a\u0938\u092e\u0942\u0939"
+    ],
+    "name:mkd_x_preferred":[
+        "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0438 \u0414\u0435\u0432\u0441\u0442\u0432\u0435\u043d\u0438 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:msa_x_preferred":[
+        "Kepulauan Virgin British"
+    ],
+    "name:nds_x_preferred":[
+        "Britsche Jumferninseln"
+    ],
+    "name:nld_x_preferred":[
+        "Britse Maagdeneilanden"
+    ],
+    "name:nld_x_variant":[
+        "Maagdeneilanden Britse"
+    ],
+    "name:nno_x_preferred":[
+        "Dei britiske Jomfru\u00f8yane"
+    ],
+    "name:nor_x_colloquial":[
+        "De Britiske Jomfruoyene"
+    ],
+    "name:nor_x_preferred":[
+        "De Britiske Jomfru\u00f8yene",
+        "De britiske Jomfru\u00f8yer"
+    ],
+    "name:nov_x_preferred":[
+        "Britani Virja Isles"
+    ],
+    "name:oci_x_preferred":[
+        "Illas Verges Britanicas"
+    ],
+    "name:ori_x_preferred":[
+        "\u0b2c\u0b4d\u0b30\u0b3f\u0b1f\u0b3f\u0b36 \u0b2d\u0b30\u0b4d\u0b1c\u0b3f\u0b28 \u0b26\u0b4d\u0b35\u0b40\u0b2a\u0b2a\u0b41\u0b1e\u0b4d\u0b1c"
+    ],
+    "name:pan_x_preferred":[
+        "\u0a2c\u0a30\u0a24\u0a3e\u0a28\u0a35\u0a40 \u0a35\u0a30\u0a1c\u0a3f\u0a28 \u0a1f\u0a3e\u0a2a\u0a42"
+    ],
+    "name:pnb_x_preferred":[
+        "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u0648\u0631\u062c\u0646 \u062c\u0632\u06cc\u0631\u06d2"
+    ],
+    "name:pol_x_preferred":[
+        "Brytyjskie Wyspy Dziewicze"
+    ],
+    "name:por_x_colloquial":[
+        "Ilhas Virgens Britanicas"
+    ],
+    "name:por_x_preferred":[
+        "Ilhas Virgens Brit\u00e2nicas"
+    ],
+    "name:ron_x_preferred":[
+        "Insulele Virgine Britanice"
+    ],
+    "name:rus_x_preferred":[
+        "\u0412\u0438\u0440\u0433\u0438\u043d\u0441\u043a\u0438\u0435 \u041e\u0441\u0442\u0440\u043e\u0432\u0430"
+    ],
+    "name:scn_x_preferred":[
+        "British Virgin Islands"
+    ],
+    "name:sco_x_preferred":[
+        "Breetish Virgin Islands"
+    ],
+    "name:slk_x_preferred":[
+        "Britsk\u00e9 Panensk\u00e9 ostrovy"
+    ],
+    "name:slv_x_preferred":[
+        "Britanski Devi\u0161ki otoki"
+    ],
+    "name:spa_x_colloquial":[
+        "Islas Virgenes Britanicas"
+    ],
+    "name:spa_x_preferred":[
+        "Islas V\u00edrgenes Brit\u00e1nicas"
+    ],
+    "name:sqi_x_preferred":[
+        "Ishujt e Virgj\u00ebr Britanik\u00eb"
+    ],
+    "name:srp_x_preferred":[
+        "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u043a\u0430 \u0414\u0435\u0432\u0438\u0447\u0430\u043d\u0441\u043a\u0430 \u041e\u0441\u0442\u0440\u0432\u0430"
+    ],
+    "name:sun_x_preferred":[
+        "Kapuloan Virgin Britania"
+    ],
+    "name:swa_x_preferred":[
+        "Visiwa vya Virgin vya Uingereza"
+    ],
+    "name:swe_x_colloquial":[
+        "Brittiska Jungfruoarna",
+        "Brittiska Jungfruoearna"
+    ],
+    "name:swe_x_preferred":[
+        "Brittiska Jungfru\u00f6arna"
+    ],
+    "name:tam_x_preferred":[
+        "\u0baa\u0bbf\u0bb0\u0bbf\u0ba4\u0bcd\u0ba4\u0bbe\u0ba9\u0bbf\u0baf \u0b95\u0ba9\u0bcd\u0ba9\u0bbf\u0ba4\u0bcd \u0ba4\u0bc0\u0bb5\u0bc1\u0b95\u0bb3\u0bcd"
+    ],
+    "name:tgl_x_preferred":[
+        "Kapuluan ng Birheng Britaniko"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e2b\u0e21\u0e39\u0e48\u0e40\u0e01\u0e32\u0e30\u0e1a\u0e23\u0e34\u0e15\u0e34\u0e0a\u0e40\u0e27\u0e2d\u0e23\u0e4c\u0e08\u0e34\u0e19"
+    ],
+    "name:tur_x_preferred":[
+        "Britanya Virjin Adalar\u0131"
+    ],
+    "name:uig_x_preferred":[
+        "\u0626\u06d5\u0646\u06af\u0644\u0649\u064a\u0649\u06af\u06d5 \u0642\u0627\u0631\u0627\u0634\u0644\u0649\u0642 \u06cb\u0649\u0631\u06af\u0649\u0646 \u062a\u0627\u0642\u0649\u0645 \u0626\u0627\u0631\u0627\u0644\u0644\u0649\u0631\u0649"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0411\u0440\u0438\u0442\u0430\u043d\u0441\u044c\u043a\u0456 \u0412\u0456\u0440\u0433\u0456\u043d\u0441\u044c\u043a\u0456 \u041e\u0441\u0442\u0440\u043e\u0432\u0438"
+    ],
+    "name:und_x_colloquial":[
+        "Britiske Jomfruoeer",
+        "Britiske Jomfruoer",
+        "Britiske Jomfruoeyene",
+        "Britiske Jomfruoyene"
+    ],
+    "name:und_x_variant":[
+        "Britiske Jomfru\u00f8er",
+        "Britiske Jomfru\u00f8yene"
+    ],
+    "name:urd_x_preferred":[
+        "\u0628\u0631\u0637\u0627\u0646\u0648\u06cc \u062c\u0632\u0627\u0626\u0631 \u0648\u0631\u062c\u0646"
+    ],
+    "name:vie_x_preferred":[
+        "Qu\u1ea7n \u0111\u1ea3o Virgin thu\u1ed9c Anh"
+    ],
+    "name:war_x_preferred":[
+        "British Virgin Islands"
+    ],
+    "name:wol_x_preferred":[
+        "Duni Virgin"
+    ],
+    "name:yor_x_preferred":[
+        "\u00c0w\u1ecdn Er\u00e9k\u00f9\u1e63\u00f9 W\u00fand\u00ed\u00e1 Br\u00edt\u00e1n\u00ec"
+    ],
+    "name:zho_min_nan_x_preferred":[
+        "Britain Virgin K\u00fbn-t\u00f3"
+    ],
+    "name:zho_x_preferred":[
+        "\u82f1\u5c6c\u7dad\u723e\u4eac\u7fa4\u5cf6"
+    ],
+    "name:zho_x_variant":[
+        "\u82f1\u5c5e\u7ef4\u4eac\u7fa4\u5c9b"
+    ],
+    "name:zho_yue_x_preferred":[
+        "\u82f1\u5c6c\u8655\u5973\u7fa3\u5cf6"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"VGB",
+    "ne:adm0_label":"8",
+    "ne:adm0_sr":"5",
+    "ne:adm1_cod_1":"VGB+00?",
+    "ne:adm1_code":"VGB+00?",
+    "ne:admin":"British Virgin Islands",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"VG",
+    "ne:code_local":"",
+    "ne:datarank":"10",
+    "ne:diss_me":"10187",
+    "ne:featurecla":"Admin-1 aggregation",
+    "ne:fips":"",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"0",
+    "ne:geonunit":"British Virgin Islands",
+    "ne:gn_a1_code":"VG.",
+    "ne:gn_id":"0",
+    "ne:gn_level":"0",
+    "ne:gn_name":"",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"",
+    "ne:gns_id":"0",
+    "ne:gns_lang":"",
+    "ne:gns_level":"0",
+    "ne:gns_name":"",
+    "ne:gns_region":"",
+    "ne:gu_a3":"VGB",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"VG-",
+    "ne:iso_a2":"VG",
+    "ne:labelrank":"20",
+    "ne:latitude":"18.35360000000",
+    "ne:longitude":"-64.58540000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":6,
+    "ne:name":"British Virgin Islands",
+    "ne:name_alt":"",
+    "ne:name_len":22,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"",
+    "ne:provnum_ne":"0",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"GB1",
+    "ne:sub_code":"",
+    "ne:type":"",
+    "ne:type_en":"",
+    "ne:wikipedia":"",
+    "ne:woe_id":23424983,
+    "ne:woe_label":"",
+    "ne:woe_name":"British Virgin Islands",
+    "qs:a0":"British Virgin Islands",
+    "qs:a0_lc":"VG",
+    "qs:a1":"British Virgin Islands",
+    "qs:a1_lc":"VGB+00?",
+    "qs:adm0":"British Virgin Islands",
+    "qs:adm0_a3":"VGB",
+    "qs:gn_id":0,
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Admin-1 aggregation",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-07-12",
+    "statoids:area_km":"153",
+    "statoids:area_mi":"59",
+    "statoids:as_of_date":"2010-07-12",
+    "statoids:capital":"Road Town",
+    "statoids:country":"VG",
+    "statoids:gec":"VI",
+    "statoids:hasc":"VG.VI",
+    "statoids:iso":"VG",
+    "statoids:name":"British Virgin Islands",
+    "statoids:population":"28054",
+    "statoids:timezone":"-4",
+    "statoids:type":"territory of GB",
+    "wd:wordcount":4465,
+    "wof:belongs_to":[],
+    "wof:belongsto":[
+        102191575,
+        85632629,
+        136253055
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"VI",
+        "gn:id":0,
+        "gp:id":23424983,
+        "hasc:id":"VG.VI",
+        "iso:id":"VG-VG",
+        "qs:id":896430,
+        "wd:id":"Q25305"
+    },
+    "wof:country":"VG",
+    "wof:geomhash":"fcef1936df2b11f1547d40814f5521da",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":-1,
+            "dependency_id":85632629,
+            "empire_id":136253055,
+            "region_id":85681419
+        }
+    ],
+    "wof:id":85681419,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1536616807,
+    "wof:name":"British Virgin Islands",
+    "wof:parent_id":85632629,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"territory of GB",
+    "wof:population":28054,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-vg",
+    "wof:superseded_by":[
+        85632629
+    ],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -64.77399654900148,
+    18.33466217701789,
+    -64.27074133964106,
+    18.74624257983123
+],
+  "geometry": {"coordinates":[[[[-64.56786048047672,18.33738841424395],[-64.57091223900858,18.33466217701789],[-64.57469641800526,18.34300364799998],[-64.58531653632906,18.34861888265539],[-64.6007380846948,18.35162995046187],[-64.60301673113719,18.35561758038705],[-64.59406490826888,18.35781484627819],[-64.58690345033392,18.35797760648143],[-64.58283443895817,18.35944245010904],[-64.57835852752396,18.36058177333024],[-64.56944739448164,18.35797760648143],[-64.56818600178252,18.3508975281984],[-64.56786048047672,18.33738841424395]]],[[[-64.52719946788108,18.44911813209615],[-64.5168452862809,18.43929038124617],[-64.5201286463199,18.43412304584194],[-64.53159171988193,18.43567723621555],[-64.54859616318237,18.44027055863944],[-64.56116595054812,18.43354551471378],[-64.56639563684911,18.4257266298801],[-64.57404537719236,18.41913483310611],[-64.58332271956783,18.41632721622807],[-64.59117591083958,18.41779205895642],[-64.59699459462479,18.42080312766228],[-64.60338294226892,18.42304108337936],[-64.61339270690786,18.42255280187038],[-64.61286373557289,18.41950104423785],[-64.62071692594532,18.41156647331417],[-64.63036048125116,18.40485260616288],[-64.6351212232658,18.40550364787509],[-64.64366614517644,18.39394765815797],[-64.65968514285504,18.38307161256489],[-64.67547765526956,18.38410507838671],[-64.68962849665775,18.38463998164985],[-64.71412824602169,18.38620258158392],[-64.70050873399083,18.39806985813749],[-64.68255356969144,18.39954839304397],[-64.67439957228237,18.41239789204911],[-64.6656471102259,18.42439646602412],[-64.66182129891376,18.44041567054683],[-64.64170492794005,18.45115772255093],[-64.62726803289337,18.44708893420699],[-64.60363300056247,18.4516161231856],[-64.5927047897942,18.44856217300594],[-64.56016094916845,18.45410278011929],[-64.52719946788108,18.44911813209615]]],[[[-64.72423255099142,18.44269440332408],[-64.73033606715575,18.43789297148351],[-64.7593888007525,18.44183991158269],[-64.77399654900148,18.44228750236641],[-64.76842200417212,18.44965241122986],[-64.7429093088175,18.45498281530473],[-64.72980709492145,18.45343659112581],[-64.7275284502777,18.44989655198435],[-64.72423255099142,18.44269440332408]]],[[[-64.53160559821976,18.46702708563157],[-64.5365291013369,18.46238841399418],[-64.53823808481974,18.46515534104623],[-64.53734290325235,18.47182851837147],[-64.53945878769287,18.48285553585436],[-64.53770911348477,18.49066803640079],[-64.53270423071564,18.49412669499105],[-64.52953040270586,18.49258047171145],[-64.52892005081964,18.4818382830104],[-64.52916419157413,18.47638580945761],[-64.53160559821976,18.46702708563157]]],[[[-64.32603919175523,18.51194896017643],[-64.33429928308539,18.49705638224629],[-64.35309811128877,18.48720937691127],[-64.37197831914409,18.48191966446097],[-64.38060462070666,18.48090241161708],[-64.38902747313932,18.471096096108],[-64.40819251157512,18.45669179968684],[-64.42931067604684,18.44489166921522],[-64.44334876223553,18.44306061445582],[-64.41852779931844,18.47532786768699],[-64.41173255071658,18.491359767939],[-64.41539466113466,18.51194896017643],[-64.41095943862717,18.51194896017643],[-64.40811113192314,18.51048411744813],[-64.40575110582881,18.50820547100574],[-64.40241451671653,18.50576406525943],[-64.3468318349212,18.5069033875813],[-64.32603919175523,18.51194896017643]]],[[[-64.28506425730961,18.73407623912721],[-64.27074133964106,18.70066966447348],[-64.27953040320551,18.70123932563445],[-64.33653723880246,18.72426992451744],[-64.38052324105468,18.72614166910279],[-64.39867102754584,18.73208242416462],[-64.40855872270686,18.74469635655169],[-64.32030188672263,18.74624257983123],[-64.28506425730961,18.73407623912721]]]],"type":"MultiPolygon"}
+}
