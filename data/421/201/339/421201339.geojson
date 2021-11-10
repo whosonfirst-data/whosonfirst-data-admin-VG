@@ -23,6 +23,9 @@
     "name:fra_x_preferred":[
         "Spanish Town"
     ],
+    "name:hun_x_preferred":[
+        "Spanish Town"
+    ],
     "name:jpn_x_preferred":[
         "\u30b9\u30d1\u30cb\u30c3\u30b7\u30e5\u30fb\u30bf\u30a6\u30f3"
     ],
@@ -91,7 +94,7 @@
         }
     ],
     "wof:id":421201339,
-    "wof:lastmodified":1566647163,
+    "wof:lastmodified":1636505985,
     "wof:name":"Spanish Town",
     "wof:parent_id":85681419,
     "wof:placetype":"locality",
