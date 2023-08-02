@@ -17,6 +17,12 @@
     "mz:is_current":-1,
     "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:ast_x_preferred":[
+        "Spanish Town"
+    ],
+    "name:deu_x_preferred":[
+        "Spanish Town"
+    ],
     "name:eng_x_preferred":[
         "Spanish Town"
     ],
@@ -24,6 +30,9 @@
         "Spanish Town"
     ],
     "name:hun_x_preferred":[
+        "Spanish Town"
+    ],
+    "name:ita_x_preferred":[
         "Spanish Town"
     ],
     "name:jpn_x_preferred":[
@@ -43,6 +52,9 @@
     ],
     "name:urd_x_preferred":[
         "\u0633\u067e\u06cc\u0646\u0634 \u0679\u0627\u0624\u0646"
+    ],
+    "name:zho_x_preferred":[
+        "\u897f\u73ed\u7259\u9547"
     ],
     "qs:gn_country":"VG",
     "qs:gn_fcode":"PPL",
@@ -94,7 +106,7 @@
         }
     ],
     "wof:id":421201339,
-    "wof:lastmodified":1636505985,
+    "wof:lastmodified":1690921362,
     "wof:name":"Spanish Town",
     "wof:parent_id":85681419,
     "wof:placetype":"locality",
